@@ -1,0 +1,58 @@
+*{
+	margin: 0;
+	padding:0;
+}
+.phone{
+	width: 320px;
+	height: 600px;
+	border: 2px #000 solid;
+	margin: 30px auto;
+	border-radius: 30px;
+	background-color: #2200d438;
+}
+.top{
+	width: 240px;
+	height: 30px;
+	/*border: 2px #000 solid;*/
+	margin: 5px auto;
+	
+}
+
+.screen{
+	width: 300px;
+	height: 490px;
+	margin: 0 auto 5px auto;
+	background-image: url(http://img.hb.aicdn.com/dcb855f02f36ef1a7d88bc8ba8861dee4b2832159951-JDPy6H_sq320);
+}
+.home{
+	width: 50px;
+	height: 50px;
+	margin: 8px auto;
+	border: 2px #000 solid;
+	border-radius: 50%;	
+}
+.vioce{
+	width: 150px;
+	height: 10px;
+	border: 2px #000 solid;
+	margin: 8px 0px 8px 25px;
+	border-radius: 10px;
+	float: left;
+}
+.light{
+	
+	width: 8px;
+	height: 8px;
+	border: 2px #000 solid;
+	margin: 8px 3px;
+	border-radius: 50%;
+	float: left;
+}
+.camera{
+	width: 9px;
+	height: 9px;
+	border: 2px #000 solid;
+	margin: 8px 3px;
+	border-radius: 50%;
+	float: left;
+}
